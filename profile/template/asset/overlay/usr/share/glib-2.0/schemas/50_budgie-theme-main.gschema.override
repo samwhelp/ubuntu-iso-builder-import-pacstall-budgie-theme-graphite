@@ -1,15 +1,15 @@
 
 
 [org.gnome.desktop.wm.preferences:Budgie]
-theme='Graphite-red-Dark'
+theme='Graphite-Dark'
 
 
 [org.gnome.desktop.interface:Budgie]
 cursor-theme='breeze_cursors'
 cursor-size=24
 gtk-key-theme='Default'
-gtk-theme='Graphite-red-Dark'
-icon-theme='Citrus-red-dark'
+gtk-theme='Graphite-Dark'
+icon-theme='GreyStone'
 color-scheme='prefer-dark'
 gtk-color-scheme=''
 
